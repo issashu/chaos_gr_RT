@@ -1,0 +1,4 @@
+"/Users/issashu/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/opt/homebrew/opt/llvm/bin/clang -DCMAKE_CXX_COMPILER=/opt/homebrew/opt/llvm/bin/clang++ -G "CodeBlocks - Unix Makefiles" -S "/Users/issashu/Library/Mobile Documents/com~apple~CloudDocs/Coding/Lessons/Chaos Group/Homework2" -B "/Users/issashu/Library/Mobile Documents/com~apple~CloudDocs/Coding/Lessons/Chaos Group/Homework2/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/issashu/Library/Mobile Documents/com~apple~CloudDocs/Coding/Lessons/Chaos Group/Homework2/cmake-build-debug
